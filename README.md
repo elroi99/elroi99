@@ -1,4 +1,10 @@
-# Hi there, glad to meet you. I'm Elroi
+# Hi I'm Elroi, Welcome to my Github 🥳🥳
+
+I am Self Taught Developer with a Business Degree. I have always had a fascination
+for science, technology, history among other things. After graduating, I began teaching myself how to code.
+I have built a number of web application to keep pushing my limits and demonstrate my skill. 
+All the while, I didnt lose track on the business side of things. I believe that technology, when applied correctly, has the potential to have a powerful 
+transformative effect on our lives. Keeping with this belief, I want to work on tough problems with cutting edge technologies. 
 
 ## I'm part Software Engineer, part Generalist
 - I'm interested in both, the Business and Technical side of things.
@@ -25,12 +31,11 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-
-
-<br/>
-### Languages and Tools:
 <br/>
 
+###  Languages and Tools:
+
+<div> 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -44,6 +49,7 @@
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  </div>
 
 
 <br />
