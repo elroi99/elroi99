@@ -55,6 +55,17 @@ transformative effect on our lives. Keeping with this belief, I want to work on 
 <br />
 <br />
 
+
+# Major Projects
+
+## Atlas 
+[Atlas Live Link](https://github.com/elroi99/atlas-clone)
+[Atlas Github](https://atlas-clone.herokuapp.com/)
+
+## Tiny House
+[Tiny House Live Link](https://atlas-clone.herokuapp.com/)
+[Tiny House Github](https://github.com/elroi99/tinyHouse)
+
 ---
 
 
