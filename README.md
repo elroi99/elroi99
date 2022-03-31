@@ -63,7 +63,7 @@ transformative effect on our lives. Keeping with this belief, I want to work on 
 [Github](https://atlas-clone.herokuapp.com/)  
 
 ## Tiny House
-[Live Site](https://github.com/elroi99/tinyHouse)  
+[Live Site](https://atlas-clone.herokuapp.com/)  
 [Github](https://github.com/elroi99/tinyHouse)  
 
 ---
