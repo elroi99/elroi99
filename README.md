@@ -70,11 +70,12 @@ Presently .... learning Backend Dev ( Node js ) in a hurry
 # Major Projects
 
 ## Atlas 
-[Live Site](https://github.com/elroi99/atlas-clone)  
-[Github](https://atlas-clone.herokuapp.com/)  
+[Live Site](https://atlas-clone.herokuapp.com/)  
+[Github](https://github.com/elroi99/atlas-clone)  
+
 
 ## Tiny House
-[Live Site](https://atlas-clone.herokuapp.com/)  
+[Live Site](https://tiny-house-clone.herokuapp.com)  
 [Github](https://github.com/elroi99/tinyHouse)  
 
 ---
