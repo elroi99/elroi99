@@ -1,10 +1,10 @@
 # Hi I'm Elroi, Welcome to my Github 🥳🥳
 
-I am Self Taught Developer with a Business Degree. I have always had a fascination
+I am **Self Taught Developer** with a **Business Degree**. I have always had a fascination
 for science, technology, history among other things. After graduating, I began teaching myself how to code.
 I have built a number of web application to keep pushing my limits and demonstrate my skill. 
-All the while, I didnt lose track on the business side of things. I believe that technology, when applied correctly, has the potential to have a powerful 
-transformative effect on our lives. Keeping with this belief, I want to work on tough problems with cutting edge technologies. 
+All the while, I didnt lose track on the **business side of things**. I believe that technology, when applied correctly, has the potential to have a powerful 
+transformative effect on our lives. Keeping with this belief, I want to work on **tough problems** with **cutting edge technologies**. 
 
 ## I'm part Software Engineer, part Generalist
 - I'm interested in both, the Business and Technical side of things.
