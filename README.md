@@ -81,11 +81,47 @@ Presently .... learning Backend Dev ( Node js ) in a hurry
 ---
 
 
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+### My Projects 
+<article>
+      <div>
+  <div>
+<table>
+  <tbody><tr>
+    <td width="33%" valign="top">
+      <h3> Atlas </h3>
+        <br>
+        <span><a href="https://atlas-clone.herokuapp.com/" rel="nofollow">Visit Site</a></span>
+        <br/>
+        <span><a href="https://github.com/elroi99/atlas-clone" rel="nofollow">Visit Github</a></span>
+        <br/>
+        <br/>
+        <a href="https://atlas-clone.herokuapp.com/" rel="nofollow">
+            <img src="https://media0.giphy.com/media/3sbVyKmXxkxvaitZUo/giphy.gif" width="100%" alt="Cronofy.tech" data-canonical-src="https://media0.giphy.com/media/3sbVyKmXxkxvaitZUo/giphy.gif" style="max-width:100%;">
+        </a>
+        <p><strong>HTML, CSS, Javascript, React , Material UI &amp; Firebase  </strong> - Atlas - a web app that lets your store and organize content from around the Web. Build your second brain </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3> Tiny House</h3>
+        <br/>
+        <span> <a href="https://tiny-house-clone.herokuapp.com/" rel="nofollow">Visit Site</a></span>
+        <br/>
+        <span> <a href="https://github.com/elroi99/tinyHouse" rel="nofollow">Visit Github</a></span>
+        <br/>
+        <br/>
+        <a href="https://www.ibrahimgurhan.com" rel="nofollow">
+            <img src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" width="100%" alt="Portfolio" data-canonical-src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" style="max-width:100%;">
+        </a>
+        <p><strong>HTML5, CSS3, Javascript , React , Material UI &amp; Firebase  </strong> - A Beautiful Vacation Rental Listing Website. Travel the world with Tiny House </p>
+    </td>
+  </tr>
+</tbody></table>
+</article>
+      </div>
+  </div>
+
+
+
+
 
 
 
