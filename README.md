@@ -1,7 +1,7 @@
 # Hi I'm Elroi, Welcome to my Github 🥳🥳
 
 I am **Self Taught Developer** with a **Business Degree**. I began teaching myself Web Dev in April 2021.
-I have built a number of web application to keep pushing my limits and demonstrate my skill ( View my projects below ). 
+I have built a number of **web dev projects** to keep pushing my limits and demonstrate my skill ( View my projects below ). 
 All the while, I didnt lose track of the **business side of things**. I am interested in **tech , growth hacking , finance , history** and countless other topics. 
 
 <!-- My journey in brief
