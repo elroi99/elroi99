@@ -1,10 +1,8 @@
 # Hi I'm Elroi, Welcome to my Github 🥳🥳
 
-I am **Self Taught Developer** with a **Business Degree**. I have always had a fascination
-for science, technology, history among other things. After graduating, I began teaching myself how to code.
-I have built a number of web application to keep pushing my limits and demonstrate my skill. 
-All the while, I didnt lose track on the **business side of things**. I believe that technology, when applied correctly, has the potential to have a powerful 
-transformative effect on our lives. Keeping with this belief, I want to work on **tough problems** with **cutting edge technologies**. 
+I am **Self Taught Developer** with a **Business Degree**. I began teaching myself Web Dev in April 2021.
+I have built a number of web application to keep pushing my limits and demonstrate my skill ( View my projects below ). 
+All the while, I didnt lose track of the **business side of things**. I am interested in **tech , growth hacking , finance , history** and countless other topics. 
 
 <!-- My journey in brief
 June 2017 --- March 2020 earned my business degree 
@@ -18,11 +16,12 @@ Presently .... learning Backend Dev ( Node js ) in a hurry
  -->
  
 ## I'm part Software Engineer, part Generalist
-- I'm interested in both, the Business and Technical side of things.
-- 🌱 I’m currently learning Backend dev ( MERN stack )
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Backend Devk , Web3. 
-- I want to get involved in Open Source Softawre
+- 🧐 I'm interested in both, the Business and Technical side of things.
+- 🚀 Building projects to improve my skills
+- 🌱 I’m currently learning Typescript , Express JS , Mongo DB. 
+- 👯 I’m looking to collaborate with others on projects. 
+- 🥅 2022 Goals: Learn more about Backend Devk, Web3. 
+- 💻 I want to get involved in Open Source Softawre
 
 ## Areas of Interest 
 - Economics
