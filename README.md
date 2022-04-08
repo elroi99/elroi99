@@ -67,7 +67,7 @@ Presently .... learning Backend Dev ( Node js ) in a hurry
 <br />
 
 
-# Major Projects
+<!-- # Major Projects
 
 ## Atlas 
 [Live Site](https://atlas-clone.herokuapp.com/)  
@@ -78,7 +78,7 @@ Presently .... learning Backend Dev ( Node js ) in a hurry
 [Live Site](https://tiny-house-clone.herokuapp.com)  
 [Github](https://github.com/elroi99/tinyHouse)  
 
----
+--- -->
 
 
 ### My Projects 
@@ -108,7 +108,7 @@ Presently .... learning Backend Dev ( Node js ) in a hurry
         <span> <a href="https://github.com/elroi99/tinyHouse" rel="nofollow">Visit Github</a></span>
         <br/>
         <br/>
-        <a href="https://www.ibrahimgurhan.com" rel="nofollow">
+        <a href="https://tiny-house-clone.herokuapp.com" rel="nofollow">
             <img src="https://github.com/elroi99/elroi99/blob/main/tiny%20hosue%20short%20demo%20cropped%20gif.gif" style="max-width:100%;">
         </a>
         <p><strong>HTML5, CSS3, Javascript , React , Material UI &amp; Firebase  </strong> - A Beautiful Vacation Rental Listing Website. Travel the world with Tiny House </p>
