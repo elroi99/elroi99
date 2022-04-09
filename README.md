@@ -87,7 +87,7 @@ Presently .... learning Backend Dev ( Node js ) in a hurry
 <table>
   <tbody><tr>
     <td width="33%" valign="top">
-      <h3> Atlas </h3>
+      <h2> Atlas </h2>
         <br>
         <span><a href="https://atlas-clone.herokuapp.com/" rel="nofollow">Visit Site</a></span>
         <br/>
@@ -100,7 +100,7 @@ Presently .... learning Backend Dev ( Node js ) in a hurry
         <p><strong>HTML, CSS, Javascript, React , Material UI &amp; Firebase  </strong> - Atlas - a web app that lets your store and organize content from around the Web. Build your second brain </p>
     </td>
     <td width="33%" valign="top">
-      <h3> Tiny House</h3>
+      <h2> Tiny House</h2>
         <br/>
         <span> <a href="https://tiny-house-clone.herokuapp.com/" rel="nofollow">Visit Site</a></span>
         <br/>
