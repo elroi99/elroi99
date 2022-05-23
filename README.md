@@ -15,7 +15,7 @@ April 2021 -- present ...... Decided to learn Web Developement instead ( I stuck
 Presently .... learning Backend Dev ( Node js ) in a hurry 
  -->
  
-## I'm part Software Engineer, part Generalist
+## I'm a Software Engineer
 - 🧐 I'm interested in both, the Business and Technical side of things.
 - 🚀 Building projects to improve my skills
 - 🌱 I’m currently learning Typescript , Express JS , Mongo DB. 
