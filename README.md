@@ -1,8 +1,7 @@
 # Hi I'm Elroi, Welcome to my Github 🥳🥳
 
 I am **Self Taught Developer** with a **Business Degree**. I began teaching myself Web Dev in April 2021.
-I have built a number of **web dev projects** to keep pushing my limits and demonstrate my skill ( View my projects below ). 
-All the while, I didnt lose track of the **business side of things**. I am interested in **tech , growth hacking , finance , history** and countless other topics. 
+I have 6 months of front end engineering experience. I've worked professionally on a TS , React - Redux Saga codebase. 
 
 <!-- My journey in brief
 June 2017 --- March 2020 earned my business degree 
@@ -15,20 +14,11 @@ April 2021 -- present ...... Decided to learn Web Developement instead ( I stuck
 Presently .... learning Backend Dev ( Node js ) in a hurry 
  -->
  
-## I'm a Software Engineer
-- 🧐 I'm interested in both, the Business and Technical side of things.
-- 🚀 Building projects to improve my skills
-- 🌱 I’m currently learning Typescript , Express JS , Mongo DB. 
-- 👯 I’m looking to collaborate with others on projects. 
-- 🥅 2022 Goals: Learn more about Backend Devk, Web3. 
-- 💻 I want to get involved in Open Source Softawre
-
-## Areas of Interest 
-- Economics
-- Geopolitics and Warfare
-- History 
-- Tools of Thought 
-- The future of work and education  
+Work Experience
+- Software Engineer ( Front End ) -- Sensibull ( August 2022 - present )
+  - Worked on a TS, React, Redux-Saga codebase 
+  - Implement a user facing feature within the Sensibull Virtual Trade Futures and Options Trading simulator
+ 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/elroinoronha/">
