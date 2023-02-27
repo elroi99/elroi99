@@ -1,7 +1,7 @@
 # Hi I'm Elroi, Welcome to my Github 🥳🥳
 
-I am **Self Taught Developer** with a **Business Degree**. I began teaching myself Web Dev in April 2021.
-I have 6 months of front end engineering experience. I've worked professionally on a TS , React - Redux Saga codebase. 
+I am **Self Taught Developer** with 6 mths frontend web dev work ex. I began teaching myself Web Dev in April 2021.
+ I've worked professionally on a TS , React - Redux Saga codebase. 
 
 <!-- My journey in brief
 June 2017 --- March 2020 earned my business degree 
