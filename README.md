@@ -1,7 +1,7 @@
 # Hi I'm Elroi, Welcome to my Github 🥳🥳
 
-I am **Self Taught Developer** with 6 mths frontend web dev work ex. I began teaching myself Web Dev in April 2021.
- I've worked professionally on a TS , React - Redux Saga codebase. 
+I am **Self Taught Developer** with 1.5 years of frontend web dev work ex. I began teaching myself Web Dev in April 2021.
+ I've worked professionally on TS , React , Redux Toolkit codebases
 
 <!-- My journey in brief
 June 2017 --- March 2020 earned my business degree 
@@ -15,6 +15,11 @@ Presently .... learning Backend Dev ( Node js ) in a hurry
  -->
  
 Work Experience
+- Software Engineer ( Front End ) -- Cleartrip (via Thinkify Labs) ( June 2023 - June 2024 )
+  - Worked on a TS, React, Redux Toolkit codebase 
+  - Involved in multiple page revamps , codebase refactors and implementing new use facing feature ( solo and as part of larger teams ) in the Cleartrip PWA and Desktop applications
+  - Coordinated with Backend devs , Product Managers , Business and Marketing folks to ship features , fixes , patches to production quickly
+
 - Software Engineer ( Front End ) -- Sensibull ( August 2022 - present )
   - Worked on a TS, React, Redux-Saga codebase 
   - Implement a user facing feature within the Sensibull Virtual Trade Futures and Options Trading simulator
