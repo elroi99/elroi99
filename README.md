@@ -1,7 +1,7 @@
 # Hi I'm Elroi, Welcome to my Github 🥳🥳
 
 I am **Self Taught Developer** with 1.5 years of frontend web dev work ex. I began teaching myself Web Dev in April 2021.
- I've worked professionally on TS , React , Redux Toolkit codebases
+ I've worked professionally on TS , React , Redux Toolkit codebases at Sensibull and Cleartrip ( Flipkart Group )
 
 <!-- My journey in brief
 June 2017 --- March 2020 earned my business degree 
