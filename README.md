@@ -18,6 +18,7 @@ Work Experience
 - Software Engineer ( Front End ) -- Cleartrip (via Thinkify Labs) ( June 2023 - June 2024 )
   - Worked on a TS, React, Redux Toolkit codebase 
   - Involved in multiple page revamps , codebase refactors and implementing new use facing feature ( solo and as part of larger teams ) in the Cleartrip PWA and Desktop applications
+  - Work with other Frontend teams and Backend devs to create solutions and REST contracts for feature execution
   - Coordinated with Backend devs , Product Managers , Business and Marketing folks to ship features , fixes , patches to production quickly
 
 - Software Engineer ( Front End ) -- Sensibull ( August 2022 - present )
