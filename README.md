@@ -1,6 +1,6 @@
 # Hi I'm Elroi, Welcome to my Github 🥳🥳
 
-Web dev wite 3 years of Work Ex.
+Web dev with 3 years of Work Ex. <br/>
 Ex Flipkart Group, Ex Sensibull
  
 ### Connect with me:
