@@ -62,7 +62,7 @@ Ex Flipkart Group, Ex Sensibull
   <tbody>
    <tr>
     <td width="33%" valign="top">
-      <h2> Tiny House</h2>
+      <h2> Tiny House ( 2022 )</h2>
         <br/>
         <span> <a href="https://tiny-house-liart.vercel.app/" rel="nofollow">Visit Site</a></span>
         <br/>
@@ -75,7 +75,7 @@ Ex Flipkart Group, Ex Sensibull
         <p><strong>HTML5, CSS3, Javascript , React , Material UI &amp; Firebase  </strong> - A Beautiful Vacation Rental Listing Website. Travel the world with Tiny House </p>
     </td>
         <td width="33%" valign="top">
-      <h2> Atlas </h2>
+      <h2> Atlas ( 2022 ) </h2>
         <br>
         <span><a href="https://atlas-clone-cnks2ezcb-elroi99.vercel.app/" rel="nofollow">Visit Site</a></span>
         <br/>
