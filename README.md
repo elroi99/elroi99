@@ -42,12 +42,12 @@ Ex Flipkart Group, Ex Sensibull
 
 <!-- # Major Projects
 
-## Atlas 
+## Atlas ( 2022 )
 [Live Site](https://atlas-clone-cnks2ezcb-elroi99.vercel.app/)  
 [Github](https://github.com/elroi99/atlas-clone)  
 
 
-## Tiny House
+## Tiny House ( 2022 )
 [Live Site](https://tiny-house-liart.vercel.app/)  
 [Github](https://github.com/elroi99/tinyHouse)  
 
