@@ -1,29 +1,7 @@
 # Hi I'm Elroi, Welcome to my Github 🥳🥳
 
-I am **Self Taught Developer** with 1.5 years of frontend web dev work ex. I began teaching myself Web Dev in April 2021.
- I've worked professionally on TS , React , Redux Toolkit codebases at Sensibull and Cleartrip ( Flipkart Group )
-
-<!-- My journey in brief
-June 2017 --- March 2020 earned my business degree 
-( Felt dissatisfied with potential careers during the last 3 months of college )
-( I conclueded that finance/consulting was not for me; decided to switch to tech )
-April 2020 -- July 2020 started learning the math required for data science ( linear algebra, probobility .....)
-August 2020 -- October 2020 started learning Python on a borrowed device ( enjoyed this more than the math )
-November 2020 -- March 2021 Forced myself to learn Algorithms ( all the while not enjoying it -- although I must say I leant a TON )
-April 2021 -- present ...... Decided to learn Web Developement instead ( I stuck with it ) built a couple portfolio projects along the way. 
-Presently .... learning Backend Dev ( Node js ) in a hurry 
- -->
- 
-Work Experience
-- Software Engineer ( Front End ) -- Cleartrip (via Thinkify Labs) ( June 2023 - June 2024 )
-  - Worked on a TS, React, Redux Toolkit codebase 
-  - Involved in multiple page revamps , codebase refactors and implementing new use facing feature ( solo and as part of larger teams ) in the Cleartrip PWA and Desktop applications
-  - Work with other Frontend teams and Backend devs to create solutions and REST contracts for feature execution
-  - Coordinated with Backend devs , Product Managers , Business and Marketing folks to ship features , fixes , patches to production quickly
-
-- Software Engineer ( Front End ) -- Sensibull ( August 2022 - present )
-  - Worked on a TS, React, Redux-Saga codebase 
-  - Implement a user facing feature within the Sensibull Virtual Trade Futures and Options Trading simulator
+Web dev wite 3 years of Work Ex.
+Ex Flipkart Group, Ex Sensibull
  
 ### Connect with me:
 
